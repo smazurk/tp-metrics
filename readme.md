@@ -5,5 +5,4 @@ Custom Fields:
 ```CustomValues.Number("Rate")``` 
 
 Relations:
-``` MasterRelations.Count(MasterRequest != null && MasterRequest.EntityState.IsFinal == false)
-```
+```MasterRelations.Count(MasterRequest != null && MasterRequest.EntityState.IsFinal == false)```
