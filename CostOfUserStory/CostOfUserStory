@@ -1,0 +1,1 @@
+Times.Sum(User.CustomValues.Number("Rate")*Spent)
